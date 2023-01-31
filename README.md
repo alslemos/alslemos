@@ -10,7 +10,7 @@ Undergraduation 🎓 🧬 💻
 
 Personal Projects 🔭
 - Flutter;
-- IOS;
+- Swift;
 - Data visualization;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alslemos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
