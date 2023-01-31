@@ -2,13 +2,13 @@
 
 Currently, you will find here some exercises from my undergraduate bachelor's degree in Biomedical Informatics and a few small personal projects :thought_balloon: .
 
-:mortar_board:
+Undergraduation 🎓 🧬 💻
 - Python;
 - Images;
 - MySQL;
 - Java;
 
-:telescope:
+Personal Projects 🔭
 - Flutter;
 - IOS;
 - Data visualization;
