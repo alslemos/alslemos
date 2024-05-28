@@ -9,7 +9,7 @@ Undergraduation 🎓 🧬 💻
 - Java;
 
 Personal Projects 🔭
-- Flutter;
+- Maps
 - Swift;
 - Data visualization;
 
