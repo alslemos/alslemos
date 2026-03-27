@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently, you will find here some exercises from my undergraduate bachelor's degree in Biomedical Informatics and a few small personal projects.
+Currently, you will find here some projects from my bachelor's degree in Biomedical Informatics and some personal projects! 
 
 Undergraduation 🎓 🧬 💻
 - Python;
@@ -13,9 +13,17 @@ Personal Projects 🔭
 - Swift;
 - Data visualization;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alslemos&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Aplicativo de Mapas Coropléticos das Regionais de Saúde do RS](https://github.com/user-attachments/assets/8e3b163c-80b1-4657-b5ed-be8d8a267922)](https://9xvzxg-alexandre0lemos.shinyapps.io/MapaRegionaisSaudeRS/ "Clique para acessar o aplicativo Shiny")
+
+
+
+
+
+
 <!--
 **alslemos/alslemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Uploading card-project.svg…]()
 
 Hello there!
 
